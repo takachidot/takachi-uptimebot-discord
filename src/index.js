@@ -25,7 +25,6 @@ const maintenanceModeKey = "maintenanceMode";
 const db = new Database("./utils/database.json");
 const logger = new Logger("[UPTIMEBOT]:");
 const config = require("./utils/config.json");
-const moment = require("moment/moment");
 
 const commandUsageTimes = new Map();
 
