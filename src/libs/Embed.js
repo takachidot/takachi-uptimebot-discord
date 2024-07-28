@@ -10,28 +10,7 @@ class chiEmbed extends EmbedBuilder {
     this.setColor("Random");
     this.setTimestamp();
   }
-
-  /**
-   * @param {GuildMember} member
-   * @param {String} options
-   * @param {String} [infoMsg=null]
-   * @return {ModifiedEmbed}
-   * @memberof ModifiedEmbed
-   */
   embedTürü(member, options, infoMsg = null) {
-    const colors = {
-      error: 0xff5050,
-      success: 0x57f287,
-      qs: 0xff861c,
-      info: 0x3498db,
-    };
-
-    if (!(options in colors)) {
-      throw new Error("Geçersiz options değeri.");
-    }
-
-    this.data.color = colors[options];
-
     const titles = {
       error: "Error!",
       success: "Successful!",
