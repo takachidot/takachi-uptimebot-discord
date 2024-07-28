@@ -1,0 +1,38 @@
+{
+  "name": "takachi-uptimebot-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takachidot/takachi-uptimebot-discord.git"
+  },
+  "keywords": [
+    "Takachi",
+    "Discord",
+    "Uptime",
+    "Uptimebot"
+  ],
+  "author": {
+    "name": "Yahya",
+    "email": "yahyabey2401@proton.me"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/takachidot/takachi-uptimebot-discord/issues"
+  },
+  "homepage": "https://github.com/takachidot/takachi-uptimebot-discord#readme",
+  "dependencies": {
+    "@vlodia/logger": "^0.9.11",
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.3",
+    "https-proxy-agent": "^7.0.5",
+    "lodash.remove": "^4.7.0",
+    "moment": "^2.30.1",
+    "node-fetch": "^3.3.2",
+    "vlodia": "^0.10.1"
+  }
+}

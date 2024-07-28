@@ -1,0 +1,28 @@
+{
+  "users": {
+    "149284207833645056": [
+      "https://google.com",
+      "https://yahoo.com",
+      "https://opera.com",
+      "https://github.com",
+      "https://spotify.com",
+      "https://npmjs.com"
+    ]
+  },
+  "allLinks": {
+    "149284207833645056": [
+      "https://google.com",
+      "https://yahoo.com",
+      "https://opera.com",
+      "https://github.com",
+      "https://spotify.com",
+      "https://npmjs.com"
+    ]
+  },
+  "premium": {
+    "149284207833645056": {
+      "expiration": "2025-07-27T12:55:34.914Z"
+    }
+  },
+  "maintenanceMode": true
+}
