@@ -1,9 +1,9 @@
 {
-  "TOKEN": "",
-  "clientID": "1265747097244930069",
-  "serverID": "1263026728679510077",
-  "supportServer": "https://discord.gg/TcrJC9Gh",
-  "ownerID": "149284207833645056",
+  "TOKEN": "BOT TOKEN",
+  "clientID": "126574709724493006BOT ID",
+  "serverID": "SERVER ID",
+  "supportServer": "SUPPORT SERVER ID",
+  "ownerID": "BOT OWNER ID",
   "premium": true,
-  "uptimeStatus": "1263026728801144899"
+  "uptimeStatus": "UPTIME STATUS LOG CHANNEL ID"
 }
